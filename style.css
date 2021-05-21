@@ -1,0 +1,29 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background: #050505;
+	color: #fff;
+}
+
+.wknehh {
+	text-align: center;
+	font-weight: 900;
+	font-size: 60px;
+}
+
+.ekjnrg {
+	font-size: 15px;
+	text-align: center;
+}
+
+.footer {
+	font-size: 14px;
+	color: GREY;
+	text-align: center;
+	line-height: 18;
+}
+
+.btn {
+	color: aqua;
+	background: grey;
+	text-decoration: none;
+}
